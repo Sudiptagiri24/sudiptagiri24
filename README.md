@@ -1,4 +1,17 @@
 ## Hi there 👋
+👋 Hi, I'm Sudipta Giri
+
+Data Scientist | ML Engineer | NLP & Computer Vision
+
+🔭 Working on AI assistants & ML pipelines
+
+🌱 Learning LLMs, MLOps, and model optimization
+
+👯 Open to AI/ML, NLP, CV collaborations
+
+💬 Ask me about ML, DL, LLMs, YOLO, NLP
+
+📫 Email: sudiptagiri4@gmail.com
 
 <!--
 **Sudiptagiri24/sudiptagiri24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
